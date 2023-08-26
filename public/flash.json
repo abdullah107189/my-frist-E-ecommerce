@@ -1,0 +1,38 @@
+[
+    {
+        "id" : 1,
+        "name" : "Shoes",
+        "price" : 100,
+        "picture" : "images/flash/flash-1.png",
+        "discount" : 40
+    },
+    {
+        "id" : 2,
+        "name" : "Watch",
+        "price" : 200,
+        "picture" : "images/flash/flash-2.png",
+        "discount" : 80
+
+    },
+    {
+        "id" : 3,
+        "name" : "Smart Phone",
+        "price" : 1000,
+        "picture" : "images/flash/flash-3.png",
+        "discount" : 20
+    },
+    {
+        "id" : 4,
+        "name" : "Smart Watch",
+        "price" : 250,
+        "picture" : "images/flash/flash-4.png",
+        "discount" : 30
+    },
+    {
+        "id" : 5,
+        "name" : "Sunglass",
+        "price" : 10,
+        "picture" : "images/flash/flash-5.png",
+        "discount" : 90
+    }
+]

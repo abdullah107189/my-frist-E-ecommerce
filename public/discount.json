@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "picture": "images/discount/discount-1.png",
+        "name": "Sunglass",
+        "rate": 150
+    },
+    {
+        "id": 2,
+        "picture": "images/discount/discount-2.png",
+        "name": "Makeup",
+        "rate": 250
+    },
+    {
+        "id": 3,
+        "picture": "images/discount/discount-3.png",
+        "name": "Smart Watch",
+        "rate": 200
+    },
+    {
+        "id": 4,
+        "picture": "images/discount/discount-4.png",
+        "name": "Lipstick",
+        "rate": 120
+    },
+    {
+        "id": 5,
+        "picture": "images/discount/discount-5.png",
+        "name": "Green Plant",
+        "rate": 300
+    },
+    {
+        "id": 6,
+        "picture": "images/discount/discount-6.png",
+        "name": "Bansai Tree",
+        "rate": 400
+    },
+    {
+        "id": 6,
+        "picture": "images/discount/discount-7.png",
+        "name": "Bansai Tree",
+        "rate": 400
+    },
+    {
+        "id": 6,
+        "picture": "images/discount/discount-8.png",
+        "name": "Bansai Tree",
+        "rate": 400
+    },
+    {
+        "id": 6,
+        "picture": "images/discount/discount-9.png",
+        "name": "Bansai Tree",
+        "rate": 400
+    }
+]

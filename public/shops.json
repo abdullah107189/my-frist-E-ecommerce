@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "picture": "images/shops/shops-1.png",
+        "name": "Apple Earphone",
+        "rate": 180
+    },
+    {
+        "id": 2,
+        "picture": "images/shops/shops-2.png",
+        "name": "Vivo Android One",
+        "rate": 120
+    },
+    {
+        "id": 3,
+        "picture": "images/shops/shops-3.png",
+        "name": "Sony Light",
+        "rate": 50
+    },
+    {
+        "id": 4,
+        "picture": "images/shops/shops-4.png",
+        "name": "Iphone",
+        "rate": 800
+    },
+    {
+        "id": 5,
+        "picture": "images/shops/shops-5.png",
+        "name": "Wireless Earphone",
+        "rate": 80
+    },
+    {
+        "id": 6,
+        "picture": "images/shops/shops-6.png",
+        "name": "Redimi Phone",
+        "rate": 400
+    },
+    {
+        "id": 7,
+        "picture": "images/shops/shops-7.png",
+        "name": "BT Earphone",
+        "rate": 60
+    },
+    {
+        "id": 8,
+        "picture": "images/shops/shops-8.png",
+        "name": "Airpod",
+        "rate": 120
+    },
+    {
+        "id": 9,
+        "picture": "images/shops/shops-9.png",
+        "name": "Silver Cap",
+        "rate": 10
+    }
+]

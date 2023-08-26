@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "picture": "images/arrivals/arrivals1.png",
+        "name": "Sunglass",
+        "rate": 150
+    },
+    {
+        "id": 2,
+        "picture": "images/arrivals/arrivals2.png",
+        "name": "Makeup",
+        "rate": 250
+    },
+    {
+        "id": 3,
+        "picture": "images/arrivals/arrivals3.png",
+        "name": "Smart Watch",
+        "rate": 200
+    },
+    {
+        "id": 4,
+        "picture": "images/arrivals/arrivals4.png",
+        "name": "Lipstick",
+        "rate": 120
+    },
+    {
+        "id": 5,
+        "picture": "images/arrivals/arrivals5.png",
+        "name": "Green Plant",
+        "rate": 300
+    },
+    {
+        "id": 6,
+        "picture": "images/arrivals/arrivals6.png",
+        "name": "Bansai Tree",
+        "rate": 400
+    }
+]
